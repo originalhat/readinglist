@@ -1,3 +1,5 @@
+.DS_Store
+
 .gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -23,5 +25,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
-*.swp
